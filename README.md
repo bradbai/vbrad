@@ -14,7 +14,6 @@
   1. Prerequisites
      - Node >= 6
      - npm >= 5.2
-  2. open the project root folder
-  3. Run command **npm install**
-  4. Run command **npm start**
+  2. Run command **npm install**
+  3. Run command **npm start**
 - (Optional) Test: Run command **npm test**
