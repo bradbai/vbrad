@@ -16,4 +16,5 @@
      - npm >= 5.2
   2. Run command **npm install**
   3. Run command **npm start**
+  4. visit http://localhost:3000/
 - (Optional) Test: Run command **npm test**
