@@ -1,0 +1,45 @@
+header {
+  background-color: #ffffff;
+  color: #000000;
+  text-align: center;
+}
+
+.container-contents {
+  background-color: #dbdbdb;
+  -webkit-box-shadow:0.2px 0.5px 0.2px 1px rgba(0,0,0,0.3);
+  -moz-box-shadow:0.2px 0.5px 0.2px 1px rgba(0,0,0,0.3);
+  box-shadow: 0.2px 0.5px 0.2px 1px rgba(0,0,0,0.3);
+}
+
+.content-container, .list-container {
+  max-width: 40rem;
+  margin: 0 auto;
+  padding: 1rem;
+}
+
+.list-container {
+  -webkit-box-shadow:0.2px 0.5px 0.2px 1px rgba(0,0,0,0.2);
+  -moz-box-shadow:0.2px 0.5px 0.2px 1px rgba(0,0,0,0.2);
+  box-shadow: 0.2px 0.5px 0.2px 1px rgba(0,0,0,0.2);
+}
+
+.card {
+  text-align: center;
+}
+
+.card-header {
+  background-color: #563d7c;
+  color: #ffffff;
+}
+
+label, select, input {
+  width: 100%;
+}
+
+label {
+  margin-bottom: 0;
+}
+
+.row {
+  margin-bottom: 1rem;
+}
